@@ -72,10 +72,10 @@ I mainly build with **Flutter, Firebase, Python, AI/ML and IoT**, with a particu
 ┌─────────────────────────────────┐
 │     AI + MOBILE + IOT + UX      │
 │                                 │
-│       ↓                         │
-│    BUILD → TEST → SHIP          │
+│               ↓                 |
+│                                 |
+│      BUILD → TEST → SHIP        │
 │                                 │
-│       🚀 repeat                 │
 └─────────────────────────────────┘
 ```
 

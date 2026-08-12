@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0715,35:24103B,65:6A0572,100:AB4B9C&height=220&section=header&animation=twinkling" width="100%"/>
-
+<img src="https://readme-typing-svg.demolab.com/?font=Great+Vibes&..." />
 <br/>
 
 <!-- STATIC ELEGANT NAME — NO TYPING ANIMATION -->

@@ -166,13 +166,7 @@ I mainly build with **Flutter, Firebase, Python, AI/ML and IoT**, with a particu
 
 <div align="center">
 
-<a href="https://github.com/kmajeee">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kmajeee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D0715&title_color=C084FC&icon_color=F472B6&text_color=E9D5FF&border_radius=18&custom_title=Majeeth%27s%20GitHub%20Stats"/>
-</a>
 
-<a href="https://github.com/kmajeee">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmajeee&layout=compact&langs_count=8&hide_border=true&bg_color=0D0715&title_color=C084FC&text_color=E9D5FF&border_radius=18&custom_title=Languages%20I%20Actually%20Use"/>
-</a>
 
 <br/><br/>
 
@@ -184,7 +178,7 @@ I mainly build with **Flutter, Firebase, Python, AI/ML and IoT**, with a particu
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kmajeee&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
+
 
 </div>
 

@@ -168,12 +168,6 @@ I mainly build with **Flutter, Firebase, Python, AI/ML and IoT**, with a particu
 
 
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=kmajeee&hide_border=true&background=0D0715&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=AB4B9C&dates=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&stroke=24103B&border_radius=18" alt="GitHub Streak"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmajeee&bg_color=0D0715&color=C084FC&line=AB4B9C&point=F472B6&area=true&hide_border=true&radius=18&custom_title=Majeeth%27s%20Contribution%20Graph" width="95%" alt="Contribution graph"/>
 
 <br/><br/>

@@ -1,14 +1,37 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!--                         HERO / INTRO                                  -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C2C54,50:6A0572,100:AB4B9C&amp;height=200&amp;section=header&amp;animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&amp;weight=600&amp;size=42&amp;duration=3500&amp;pause=2000&amp;color=E9D5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=65&amp;lines=Sheik+Abdul+Majeeth+K+M" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=building+apps+that+hit+different+%F0%9F%9A%80;flutter+%2B+firebase+%2B+a+concerning+amount+of+coffee;IoT+meets+mobile%2C+no+cap;published+researcher+%F0%9F%93%96+shipping+dev+%F0%9F%92%BB" alt="tagline" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0715,35:24103B,65:6A0572,100:AB4B9C&height=220&section=header&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kmajeee&amp;label=who+pulled+up&amp;color=AB4B9C&amp;style=for-the-badge" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=58&duration=3500&pause=1800&color=E9D5FF&center=true&vCenter=true&width=900&height=90&lines=Sheik+Abdul+Majeeth+K+M" alt="Sheik Abdul Majeeth K M"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=850&height=110&lines=Mobile+App+Developer+%7C+AI+%26+Data+Science;Flutter+%E2%9C%A6+Firebase+%E2%9C%A6+AI+%E2%9C%A6+IoT;Building+things+that+actually+ship+%F0%9F%9A%80;Turning+coffee+into+code+since+forever+%E2%98%95;Researcher+%F0%9F%93%96+%7C+Builder+%F0%9F%92%BB+%7C+Problem+Solver+%F0%9F%A7%A0" alt="Animated introduction"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kmajeee&label=PROFILE+VIEWS&color=AB4B9C&style=for-the-badge" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/kmajeee?label=FOLLOWERS&style=for-the-badge&color=6A0572&labelColor=0D0715" alt="GitHub followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/kmajeee?label=STARS&style=for-the-badge&color=C084FC&labelColor=0D0715" alt="GitHub stars"/>
+
+<br/><br/>
+
+<a href="https://github.com/kmajeee">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-0D0715?style=for-the-badge&logo=github&logoColor=E9D5FF&labelColor=6A0572" />
+</a>
+<a href="https://www.linkedin.com/in/majeethkm/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0D0715?style=for-the-badge&logo=linkedin&logoColor=E9D5FF&labelColor=AB4B9C" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:AB4B9C,50:C084FC,100:6A0572&height=3&section=header" width="75%"/>
 
 </div>
 

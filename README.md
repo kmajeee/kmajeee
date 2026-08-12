@@ -5,13 +5,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0715,35:24103B,65:6A0572,100:AB4B9C&height=220&section=header&animation=twinkling" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Great+Vibes&..." />
+
 <br/>
 
 <!-- STATIC ELEGANT NAME — NO TYPING ANIMATION -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=58&duration=1&pause=999999&color=E9D5FF&center=true&vCenter=true&width=900&height=90&lines=Sheik+Abdul+Majeeth+K+M"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=48&duration=1&pause=999999&color=E9D5FF&center=true&vCenter=true&width=900&height=80&lines=Sheik+Abdul+Majeeth+K+M"
   alt="Sheik Abdul Majeeth K M"
 />
 

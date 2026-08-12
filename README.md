@@ -1,427 +1,160 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C2C54,50:6A0572,100:AB4B9C&amp;height=200&amp;section=header&amp;animation=twinkling" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&amp;weight=600&amp;size=42&amp;duration=3500&amp;pause=2000&amp;color=E9D5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=65&amp;lines=Sheik+Abdul+Majeeth+K+M" alt="name" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=building+apps+that+hit+different+%F0%9F%9A%80;flutter+%2B+firebase+%2B+a+concerning+amount+of+coffee;IoT+meets+mobile%2C+no+cap;published+researcher+%F0%9F%93%96+shipping+dev+%F0%9F%92%BB" alt="tagline" /> <br/> <img src="https://komarev.com/ghpvc/?username=kmajeee&amp;label=who+pulled+up&amp;color=AB4B9C&amp;style=for-the-badge" alt="profile views"/> </div> <br/>
-
-## 🪻 About Me
-
 <div align="center">
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C2C54,50:6A0572,100:AB4B9C&amp;height=200&amp;section=header&amp;animation=twinkling" width="100%"/>
 
-### Hey, I'm Majeeth 👋
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&amp;weight=600&amp;size=42&amp;duration=3500&amp;pause=2000&amp;color=E9D5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=65&amp;lines=Sheik+Abdul+Majeeth+K+M" alt="name" />
 
-I'm an **AI & Data Science student**, **mobile app developer**, and builder who enjoys turning ideas into products that actually work.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=building+apps+that+hit+different+%F0%9F%9A%80;flutter+%2B+firebase+%2B+a+concerning+amount+of+coffee;IoT+meets+mobile%2C+no+cap;published+researcher+%F0%9F%93%96+shipping+dev+%F0%9F%92%BB" alt="tagline" />
 
-I mainly build with **Flutter, Firebase, Python, AI/ML and IoT**, with a particular interest in connecting software with real-world hardware.
+<br/>
 
-```text
-┌─────────────────────────────────┐
-│     AI + MOBILE + IOT + UX      │
-│                                 │
-│               ↓                 |
-│                                 |
-│      BUILD → TEST → SHIP        │
-│                                 │
-└─────────────────────────────────┘
-```
-
-</td>
-
-<td width="45%" valign="top">
-
-### ⚡ Current Status
-
-🎓 **B.Tech — AI & Data Science**
-
-🏫 Francis Xavier Engineering College
-
-📍 Tamil Nadu, India 🇮🇳
-
-💻 **Mobile / Full-Stack Developer**
-
-🧠 **AI & ML Explorer**
-
-🤖 **IoT Builder**
-
-📖 **Published Researcher**
-
-☕ **Powered by coffee**
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=kmajeee&amp;label=who+pulled+up&amp;color=AB4B9C&amp;style=for-the-badge" alt="profile views"/>
 
 </div>
 
 <br/>
 
+## ⋆｡˚ the intro ˚｡⋆
+
+not just another flutter dev — I build cross-platform apps that people actually *want* to open twice. clean state management, APIs that don't fall over, and UI that doesn't scream "made in 2016." also into wiring hardware straight into mobile apps (arduino, RFID, load cells — yes, really) and I've got a published paper on AI-driven retail tech to prove I don't just vibe-code.
+
+**based in:** Tamil Nadu, India 🇮🇳 · **currently:** B.Tech, AI & Data Science
+
+<br/>
+
+## ⋆｡˚ the arsenal ˚｡⋆
+
 <div align="center">
 
-> ### `I don't just learn technologies.`
-> ### `I build with them.` ⚡
+<img src="https://skillicons.dev/icons?i=dart,flutter,react,py,c,js&amp;theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,mongodb,sqlite&amp;theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,arduino,vscode&amp;theme=dark" />
 
 </div>
 
 <br/>
 
-## 🧩 Tech Stack
+## ⋆｡˚ receipts ˚｡⋆
 
 <div align="center">
 
-### 📱 Mobile & Frontend
+<a href="https://github.com/kmajeee">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kmajeee&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=1A1523&amp;title_color=C084FC&amp;icon_color=F472B6&amp;text_color=E9D5FF&amp;border_radius=14&amp;cache_seconds=1800"/>
+</a>
+<a href="https://github.com/kmajeee">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmajeee&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1A1523&amp;title_color=C084FC&amp;text_color=E9D5FF&amp;langs_count=8&amp;border_radius=14&amp;cache_seconds=1800"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,react,html,css,js&theme=dark" />
+</div>
 
-<br/><br/>
+<div align="center">
 
-### 🧠 AI • ML • Programming
+<img src="https://streak-stats.demolab.com?user=kmajeee&amp;theme=radical&amp;hide_border=true&amp;background=1A1523&amp;ring=C084FC&amp;fire=F472B6&amp;currStreakLabel=C084FC&amp;sideLabels=F472B6&amp;dates=E9D5FF&amp;currStreakNum=E9D5FF&amp;sideNums=E9D5FF&amp;stroke=1A1523&amp;border_radius=14&amp;cache_seconds=1800" alt="streak stats"/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,c&theme=dark" />
+</div>
 
-<br/><br/>
+<div align="center">
 
-### ☁️ Backend • Cloud • Database
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmajeee&amp;theme=react-dark&amp;bg_color=1A1523&amp;color=C084FC&amp;line=F472B6&amp;point=E9D5FF&amp;area=true&amp;hide_border=true" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb,mysql,sqlite,gcp&theme=dark" />
+</div>
 
-<br/><br/>
+<div align="center">
 
-### 🤖 IoT • Hardware
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RFID-0D0715?style=for-the-badge&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/NFC-0D0715?style=for-the-badge&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/BLE-0D0715?style=for-the-badge&logo=bluetooth&logoColor=0082FC"/>
-<img src="https://img.shields.io/badge/HX711-0D0715?style=for-the-badge&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/SENSORS-0D0715?style=for-the-badge&logoColor=C084FC"/>
-
-<br/><br/>
-
-### 🛠️ Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=kmajeee&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Universe
-
-<div align="center">
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmajeee&bg_color=0D0715&color=C084FC&line=AB4B9C&point=F472B6&area=true&hide_border=true&radius=18&custom_title=Majeeth%27s%20Contribution%20Graph" width="95%" alt="Contribution graph"/>
-
-<br/><br/>
-
-
-
-</div>
-
-<br/>
-
-## 💼 Experience
+## ⋆｡˚ where i've clocked in ˚｡⋆
 
 <details>
 <summary><b>🎯 AI Intern — Softrate Tech Park, Chennai</b></summary>
-
 <br/>
 
-`Python` `Computer Vision` `Data Pipelines` `Applied AI`
+> `Python` `Computer Vision` `Data Pipelines`
 
-- Built computer vision applications as part of applied AI project work.
-- Developed data processing pipelines supporting AI-driven workflows.
-- Worked on practical AI problems beyond tutorial-level implementations.
-- Gained exposure to end-to-end applied AI development.
+- built computer vision applications as part of applied AI project work
+- developed data processing pipelines supporting AI-driven workflows
+- got hands-on with end-to-end applied AI delivery, not just tutorials
 
 </details>
-
-<br/>
 
 <details>
 <summary><b>🎯 Python AI Intern — Infosmite, Tirunelveli</b></summary>
-
 <br/>
 
-`Python` `Machine Learning` `Model Development` `Deployment`
+> `Python` `Machine Learning` `Model Deployment`
 
-- Worked on machine learning model development.
-- Explored the complete ML workflow from data preparation to evaluation.
-- Gained practical experience with model deployment concepts.
-- Worked with Python-based AI workflows in a professional environment.
+- focused on ML model development across the full lifecycle
+- gained real experience training, evaluating, and deploying models — the unglamorous parts too
 
 </details>
 
 <br/>
 
-## 🚀 Featured Projects
+## ⋆｡˚ things i actually built ˚｡⋆
 
 <div align="center">
 
-<table>
-<tr>
+| project | stack | why it's peak |
+|---|---|---|
+| **[🛒 Smart Trolley](https://github.com/kmajeee)** <br/> *AI-Enabled Voice Billing & Security System* | Flutter · Firebase · Arduino · RFID · HX711 · NFC · BLE | AI voice billing, real-time weight verification, RFID security, child-safety geofencing — got a published paper out of it too 📄 |
+| **[🚴 Rydr](https://github.com/kmajeee)** <br/> *Real-Time Group Cycling Navigation* | Flutter · Dart · Firebase | live navigation built for the whole squad, not solo rides |
+| **[🕵️ FakeX](https://github.com/kmajeee)** <br/> *Fake Certification Detection* | Flutter · React.js · Python | mobile + web prototype that catches fake certs before they catch you slipping |
 
-<td width="50%" valign="top">
+</div>
 
-## 🛒 Smart Trolley
+<sub>*links point to my profile for now — swapping in direct repo links as these go public*</sub>
 
-### AI-Enabled Voice Billing & Security System
+<br/>
 
-**Stack**
+## ⋆｡˚ flexing (respectfully) ˚｡⋆
 
-`Flutter` `Firebase` `Arduino` `RFID` `HX711` `NFC` `BLE`
+<div align="center">
 
-**Highlights**
-
-- 🎙️ AI-powered voice interaction
-- 🧾 Automated billing
-- ⚖️ Real-time weight verification
-- 🔐 RFID-based security
-- 📍 Child-safety geofencing
-- 📡 Hardware ↔ mobile communication
-- 📊 Real-time analytics
-
-📖 **Published research project**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚴 RYDR
-
-### Real-Time Group Cycling Navigation
-
-**Stack**
-
-`Flutter` `Dart` `Firebase`
-
-**Highlights**
-
-- 🗺️ Real-time navigation
-- 👥 Group cycling
-- 📍 Live location tracking
-- 🔥 Firebase backend
-- 📱 Cross-platform mobile experience
-
-> **Built for the whole squad, not solo rides.**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🕵️ FakeX
-
-### Fake Certification Detection
-
-**Stack**
-
-`Flutter` `React.js` `Python`
-
-**Highlights**
-
-- 🔍 Certificate verification
-- 🧠 AI/ML-assisted detection
-- 📱 Mobile interface
-- 🌐 Web interface
-- 🐍 Python processing
-
-A project focused on making certificate verification smarter and harder to fake.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 GROOT
-
-### AI Voice Assistant
-
-**Stack**
-
-`Python` `AI` `Speech Recognition` `APIs`
-
-**Highlights**
-
-- 🎙️ Voice interaction
-- 🧠 AI-powered responses
-- ⚡ Automation
-- 🔌 API integration
-- 🖥️ Personal assistant workflows
-
-> *Every developer eventually builds their own Jarvis.*
-
-</td>
-
-</tr>
-</table>
+| | achievement | the tea |
+|---|---|---|
+| 🎤 | **Best Oral Presenter** | Maldives SMART 25 International Conference |
+| 🏅 | **Best Paper Award** | Maldives SMART 25 International Conference |
+| 📖 | **Published Researcher** | *"AI-Powered Smart Shopping Trolley"* — Flutter, Firebase, NFC, IoT & BLE powering secure auth, automated billing, AI recs, geofencing & real-time analytics |
 
 </div>
 
 <br/>
 
+## ⋆｡˚ the paperwork ˚｡⋆
+
 <div align="center">
 
-<a href="https://github.com/kmajeee?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0D0715?style=for-the-badge&logo=github&logoColor=E9D5FF&labelColor=6A0572"/>
-</a>
+| degree | institution | year | score |
+|---|---|---|---|
+| B.Tech, AI & Data Science | Francis Xavier Engineering College | 2023 – 2027 | CGPA 8.03 / 10.00 |
+| Higher Secondary (CS & Maths) | Francis Xavier School, CBSE | 2022 – 2023 | 74.6% |
 
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## ⋆｡˚ slide into my inbox ˚｡⋆
 
 <div align="center">
 
-<table>
-
-<tr>
-<td align="center" width="90">🎤</td>
-<td align="left">
-
-### Best Oral Presenter
-
-**SMART 25 International Conference — Maldives**
-
-Presented research on **Adaptive Itinerary Synthesis Using Generative Artificial Intelligence Techniques**.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">🏅</td>
-<td align="left">
-
-### Best Paper Award
-
-**SMART 25 International Conference — Maldives**
-
-Recognized for research work involving AI-driven intelligent systems.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">📖</td>
-<td align="left">
-
-### Published Researcher
-
-**AI-Powered Smart Shopping Trolley**
-
-Research involving `Flutter` · `Firebase` · `NFC` · `IoT` · `BLE` · `AI` · `Geofencing` · `Real-Time Analytics`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">🥇</td>
-<td align="left">
-
-### Hackathon Winner
-
-**Aatral — FXEC Hackathon**
-
-Built and presented a solution under competitive hackathon conditions.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">⚡</td>
-<td align="left">
-
-### Technical Events
-
-Participated in **Visai International Hackathon**, **PES 24-Hour Hackathon**, and **Maxelerator Workshop — Madurai**.
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Qualification | 🏫 Institution | 📅 Year | 📈 Score |
-|:---:|:---:|:---:|:---:|
-| **B.Tech — AI & Data Science** | Francis Xavier Engineering College | 2023 – 2027 | **CGPA 8.03 / 10** |
-| **Higher Secondary — CS & Maths** | Francis Xavier School, CBSE | 2022 – 2023 | **74.6%** |
-
-</div>
-
-<br/>
-
-## 🌌 Currently Exploring
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=800&height=80&lines=Advanced+Flutter+Architecture;AI+%26+Machine+Learning;Generative+AI;Full-Stack+Development;IoT+%2B+Mobile+Integration;Cloud+%26+Backend+Systems"
-  alt="Current learning"
-/>
+<a href="https://www.linkedin.com/in/majeethkm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:kmmajeee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/kmajeee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FLUTTER%20ARCHITECTURE-0D0715?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-0D0715?style=for-the-badge&logo=googlebrain&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-0D0715?style=for-the-badge&logo=openai&logoColor=E9D5FF"/>
-<img src="https://img.shields.io/badge/CLOUD-0D0715?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/IOT-0D0715?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<i>"build fast. build smart. build for people." — and yes, ship it before it's perfect ✨</i>
 
 </div>
 
-<br/>
-
-## 💌 Let's Connect
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=E9D5FF&center=true&vCenter=true&width=700&height=50&lines=Have+an+idea%3F+Let's+build+it.;Looking+for+a+collab%3F+I'm+in.;Let's+turn+coffee+into+something+useful+%E2%98%95;Build+fast.+Build+smart.+Ship+it.+%F0%9F%9A%80"
-  alt="Contact animation"
-/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/majeethkm/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0715?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=6A0572"/>
-</a>
-
-<a href="mailto:kmmajeee@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D0715?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=AB4B9C"/>
-</a>
-
-<a href="https://github.com/kmajeee">
-<img src="https://img.shields.io/badge/GITHUB-0D0715?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=24103B"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:AB4B9C,50:C084FC,100:6A0572&height=2&section=header" width="65%"/>
-
-<br/><br/>
-
-<i>“build fast. build smart. build for people.”</i>
-
-<br/>
-
-<sub>and yes — ship it before it's perfect ✨</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB4B9C,35:6A0572,70:24103B,100:0D0715&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:AB4B9C,50:6A0572,100:2C2C54&amp;height=140&amp;section=footer&amp;animation=twinkling" width="100%"/>

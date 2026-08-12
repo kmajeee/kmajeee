@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C2C54,50:6A0572,100:AB4B9C&amp;height=200&amp;section=header&amp;text=Sheik%20Abdul%20Majeeth%20K%20M&amp;fontSize=40&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=building%20apps%20that%20don%27t%20just%20work%20-%20they%20hit%20different&amp;descAlignY=55&amp;descSize=17" width="100%"/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=flutter+dev+shipping+cross-platform+apps;IoT+%2B+ML+enjoyer+%F0%9F%94%A7%F0%9F%A4%96;published+researcher%2C+low+key+nerd+%F0%9F%93%96;probably+debugging+at+2am+rn+%E2%98%95" alt="Typing SVG" />
 
@@ -11,6 +11,8 @@
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ the lore
 
@@ -35,7 +37,7 @@ class Me {
 }
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ the stack
 
@@ -78,7 +80,7 @@ class Me {
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ receipts (github stats)
 
@@ -95,7 +97,7 @@ class Me {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kmajeee&amp;theme=radical&amp;hide_border=true&amp;background=1A1523&amp;ring=C084FC&amp;fire=F472B6&amp;currStreakLabel=C084FC&amp;sideLabels=F472B6&amp;dates=E9D5FF&amp;currStreakNum=E9D5FF&amp;sideNums=E9D5FF&amp;stroke=1A1523&amp;border_radius=14" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=kmajeee&amp;theme=radical&amp;hide_border=true&amp;background=1A1523&amp;ring=C084FC&amp;fire=F472B6&amp;currStreakLabel=C084FC&amp;sideLabels=F472B6&amp;dates=E9D5FF&amp;currStreakNum=E9D5FF&amp;sideNums=E9D5FF&amp;stroke=1A1523&amp;border_radius=14&amp;cache_seconds=1800" alt="streak stats"/>
 
 </div>
 
@@ -111,7 +113,7 @@ class Me {
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ where i've clocked in
 
@@ -138,7 +140,7 @@ class Me {
 
 </details>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ things i built that i'm actually proud of
 
@@ -154,7 +156,7 @@ class Me {
 
 <sub>*links point to my profile for now — swapping in direct repo links as these go public*</sub>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ flexing (respectfully)
 
@@ -168,7 +170,7 @@ class Me {
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ the paperwork
 
@@ -181,7 +183,7 @@ class Me {
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/kmajeee/kmajeee/main/assets/glass-divider.svg" width="100%"/>
 
 ## ✦ slide into my inbox
 

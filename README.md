@@ -81,10 +81,10 @@ class Developer {
 <div align="center">
 
 <a href="https://github.com/kmajeee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmajeee&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmajeee&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10&amp;cache_seconds=1800"/>
 </a>
 <a href="https://github.com/kmajeee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmajeee&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmajeee&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10&amp;cache_seconds=1800"/>
 </a>
 
 </div>

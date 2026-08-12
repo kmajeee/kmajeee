@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Sheik%20Abdul%20Majeeth%20K%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Flutter%20Mobile%20App%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Sheik%20Abdul%20Majeeth%20K%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Flutter%20Mobile%20App%20Developer%20%7C%20AI%20and%20IoT%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Integrating+IoT+%2B+ML+into+mobile+experiences;Published+AI+Retail-Tech+Researcher;Turning+ideas+into+scalable+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+cross-platform+apps+with+Flutter+and+Dart;Integrating+IoT+%2B+ML+into+mobile+experiences;Published+AI+Retail-Tech+Researcher;Turning+ideas+into+scalable+products+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=kmajeee&amp;label=Profile%20Views&amp;color=70a5fd&amp;style=flat-square" alt="profile views"/>
 
